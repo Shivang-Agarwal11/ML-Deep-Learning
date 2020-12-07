@@ -1,0 +1,7 @@
+tensorflow>2.1.0
+keras
+numpy
+matplotlib
+scipy
+openccv-python
+pandas
